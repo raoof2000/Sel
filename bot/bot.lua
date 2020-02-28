@@ -75,18 +75,18 @@ end
 function create_self( )
   self = {
     names = {
-    "solid",
-    "سلید",
-    "سولید",
-    "سعید",
-    "saeed",
-    "saeid"
+    "Dilan",
+    "دیلان",
+    "دیلی",
+    "Dev",
+    "Dili",
+    "Slm"
     },
     answers = {
     "وات؟ :/",
-    "بلی؟",
+    "چتع؟",
     "بفرما",
-    "بوگوی :|",
+    "هن :|",
     "جونم؟",
     "جونز",
     "ژون؟ :/"
@@ -128,7 +128,7 @@ function create_config( )
 		"tools",
      "fun"
 	},
-    sudo_users = {157059515},
+    sudo_users = {880051030},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
